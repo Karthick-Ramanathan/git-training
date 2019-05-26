@@ -1,8 +1,13 @@
 
 
 fun main(args: Array<String>) {
-    println("Test5")
+    println("Divide")
 }
 
-class Test5 {
+class Divide {
+
+// return division of two numbers
+function divide(a, b) {
+    return a / b;
+};
 }
