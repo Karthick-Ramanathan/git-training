@@ -1,8 +1,13 @@
 
 
 fun main(args: Array<String>) {
-    println("Test2")
+    println("Add")
 }
 
-class Test2 {
+class Add {
+
+// return summation of two numbers
+fun add() {
+    return a + b
+}
 }
