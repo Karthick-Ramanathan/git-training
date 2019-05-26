@@ -5,4 +5,8 @@ fun main(args: Array<String>) {
 }
 
 class Add {
+// return add of two numbers
+fun add (){
+return a + b
+}
 }
